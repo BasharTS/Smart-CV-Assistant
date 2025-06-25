@@ -1,0 +1,1 @@
+Error: Gemini API call failed. cURL error: Could not resolve host: generativelanguage.googleapis.com
